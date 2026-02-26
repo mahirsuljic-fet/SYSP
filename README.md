@@ -3,7 +3,7 @@ Sistemsko programiranje (SYSP)
 
 # Sadržaj
 - [Materijal za učenje](#materijal-za-ucenje)
-  - [Knjige i linkovi](#knjige-i-linkovi)
+  - [Literatura](#literatura)
   - [Materijal sa fakulteta](#FET)
   - [YouTube](#youtube)
 
@@ -21,14 +21,16 @@ Sistemsko programiranje (SYSP)
 ### FET
 
 #### [**Predavanja**](./Predavanja)
-- [Predavanje 1 - Uvod u fajl sisteme](./Predavanja/p1.md)
+- [P1 - Uvod u fajl sisteme](./Predavanja/p1.md)
 
-#### [Prezentacije](./Prezentacije)
+#### [~Prezentacije~](./Prezentacije)
 ...
 
-#### [Vježbe](./Vjezbe)
+#### [~Vježbe~](./Vjezbe)
 ...
 
+#### [~Zadaće~](./Zadace)
+...
 
 ### YouTube
 - [Unix/Linux Files Explained - what is an inode? (hardlinks, symlinks, etc.)](https://www.youtube.com/watch?v=ScDv02ff8oc)
