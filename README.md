@@ -22,6 +22,8 @@ Sistemsko programiranje (SYSP)
 
 #### [**Predavanja**](./Predavanja)
 - [P1 - Uvod u fajl sisteme](./Predavanja/p1.md)
+- [P2 - Direktorije, hard linkovi i putanje](./Predavanja/p2.md)
+- [P3 - Login, shell komande, permisije, autorizacija i eksalacija privilegija](./Predavanja/p3.md)
 
 #### [~Prezentacije~](./Prezentacije)
 ...
