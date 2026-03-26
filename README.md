@@ -24,6 +24,7 @@ Sistemsko programiranje (SYSP)
 - [P1 - Uvod u fajl sisteme](./Predavanja/p1.md)
 - [P2 - Direktorije, hard linkovi i putanje](./Predavanja/p2.md)
 - [P3 - Login, shell komande, permisije, autorizacija i eksalacija privilegija](./Predavanja/p3.md)
+- [P4 - `sudo`, set gid bit, sticky bit, default permisije, načini izvršavanja skripti, fajl sistem kernel tabele, `init` fajl deskriptori](./Predavanja/p4.md)
 
 #### [~Prezentacije~](./Prezentacije)
 ...
