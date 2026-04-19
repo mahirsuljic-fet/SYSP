@@ -36,8 +36,9 @@ Sistemsko programiranje (SYSP)
 - [P6](./Prezentacije/SP-P6.pdf)
 - [P7](./Prezentacije/SP-P7.pdf)
 
-#### [~Zadaće~](./Zadace)
-...
+#### [Zadaće](./Zadace)
+- [Z1 - bash](./Zadace/z1/)
+  - [simple bash](./Zadace/simple_bash.c)
 
 ### YouTube
 - [Unix/Linux Files Explained - what is an inode? (hardlinks, symlinks, etc.)](https://www.youtube.com/watch?v=ScDv02ff8oc)
