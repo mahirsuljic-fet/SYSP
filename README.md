@@ -27,11 +27,14 @@ Sistemsko programiranje (SYSP)
 - [P4 - `sudo`, set gid bit, sticky bit, default permisije, načini izvršavanja skripti, fajl sistem kernel tabele, `init` fajl deskriptori](./Predavanja/p4.md)
 - [P5 - File system API, bash operatori za redirekciju]
 
-#### [~Prezentacije~](./Prezentacije)
+#### [Prezentacije](./Prezentacije)
 - [P1](./Prezentacije/SP-P1.pdf)
 - [P2](./Prezentacije/SP-P2.pdf)
 - [P3](./Prezentacije/SP-P3.pdf)
 - [P4](./Prezentacije/SP-P4.pdf)
+- [P5](./Prezentacije/SP-P5.pdf)
+- [P6](./Prezentacije/SP-P6.pdf)
+- [P7](./Prezentacije/SP-P7.pdf)
 
 #### [~Zadaće~](./Zadace)
 ...
