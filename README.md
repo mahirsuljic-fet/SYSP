@@ -25,7 +25,7 @@ Sistemsko programiranje (SYSP)
 - [P2 - Direktorije, hard linkovi i putanje](./Predavanja/p2.md)
 - [P3 - Login, shell komande, permisije, autorizacija i eksalacija privilegija](./Predavanja/p3.md)
 - [P4 - `sudo`, set gid bit, sticky bit, default permisije, načini izvršavanja skripti, fajl sistem kernel tabele, `init` fajl deskriptori](./Predavanja/p4.md)
-- [P5 - File system API, bash operatori za redirekciju]
+- [P5 - File system API, bash operatori za redirekciju](./Predavanja/p5.md)
 
 #### [Prezentacije](./Prezentacije)
 - [P1](./Prezentacije/SP-P1.pdf)
