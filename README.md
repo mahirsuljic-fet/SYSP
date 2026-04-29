@@ -39,7 +39,11 @@ Sistemsko programiranje (SYSP)
 
 #### [Zadaće](./Zadace)
 - [Z1 - bash](./Zadace/z1/)
-  - [simple bash](./Zadace/simple_bash.c)
+  - [Simple bash](./Zadace/simple_bash.c)
+
+#### [Provjere](./Provjere/)
+- [P3 - Terminal](./Provjere/p3)
+  - [Minesweeper](./Provjere/p3/minesweeper.c)
 
 ### YouTube
 - [Unix/Linux Files Explained - what is an inode? (hardlinks, symlinks, etc.)](https://www.youtube.com/watch?v=ScDv02ff8oc)
