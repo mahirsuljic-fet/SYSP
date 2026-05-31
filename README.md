@@ -36,6 +36,8 @@ Sistemsko programiranje (SYSP)
 - [P5](./Prezentacije/SP-P5.pdf)
 - [P6](./Prezentacije/SP-P6.pdf)
 - [P7](./Prezentacije/SP-P7.pdf)
+- [P8](./Prezentacije/SP-P8.pdf)
+- [P9](./Prezentacije/SP-P9.pdf)
 
 #### [Zadaće](./Zadace)
 - [Z1 - bash](./Zadace/z1/)
