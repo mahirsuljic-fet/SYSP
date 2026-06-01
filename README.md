@@ -29,6 +29,7 @@ Sistemsko programiranje (SYSP)
 - [P6 - Simbolički link, uređaji i terminal](./Predavanja/p6.md)
 - [P7 - Terminal sesija, grupe procesa i signali](./Predavanja/p7.md)
 - [P8 - Signali, pipe i fifo](./Predavanja/p8.md)
+- [P9 - Pipe, fifo i `select`](./Predavanja/p9.md)
 
 #### [Prezentacije](./Prezentacije)
 - [P1](./Prezentacije/SP-P1.pdf)
