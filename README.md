@@ -28,6 +28,7 @@ Sistemsko programiranje (SYSP)
 - [P5 - File system API, bash operatori za redirekciju](./Predavanja/p5.md)
 - [P6 - Simbolički link, uređaji i terminal](./Predavanja/p6.md)
 - [P7 - Terminal sesija, grupe procesa i signali](./Predavanja/p7.md)
+- [P8 - Signali, pipe i fifo](./Predavanja/p8.md)
 
 #### [Prezentacije](./Prezentacije)
 - [P1](./Prezentacije/SP-P1.pdf)
