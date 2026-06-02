@@ -10,3 +10,4 @@
 - [P9 - Pipe, fifo i `select`](./p9.md)
 - [P10 - Iznimke i RAII](./p10.md)
 - [P11 - Smart pointeri](./p11.md)
+- [P12 - Thread i mutex](./p12.md)

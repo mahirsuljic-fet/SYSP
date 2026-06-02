@@ -32,6 +32,7 @@ Sistemsko programiranje (SYSP)
 - [P9 - Pipe, fifo i `select`](./Predavanja/p9.md)
 - [P10 - Iznimke i RAII](./Predavanja/p10.md)
 - [P11 - Smart pointeri](./Predavanja/p11.md)
+- [P12 - Thread i mutex](./Predavanja/p12.md)
 
 #### [Prezentacije](./Prezentacije)
 - [P1](./Prezentacije/SP-P1.pdf)
