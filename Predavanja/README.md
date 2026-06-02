@@ -1,0 +1,11 @@
+### Sadržaj
+- [P1 - Uvod u fajl sisteme](./Predavanja/p1.md)
+- [P2 - Direktorije, hard linkovi i putanje](./Predavanja/p2.md)
+- [P3 - Login, shell komande, permisije, autorizacija i eksalacija privilegija](./Predavanja/p3.md)
+- [P4 - `sudo`, set gid bit, sticky bit, default permisije, načini izvršavanja skripti, fajl sistem kernel tabele, `init` fajl deskriptori](./Predavanja/p4.md)
+- [P5 - File system API, bash operatori za redirekciju](./Predavanja/p5.md)
+- [P6 - Simbolički link, uređaji i terminal](./Predavanja/p6.md)
+- [P7 - Terminal sesija, grupe procesa i signali](./Predavanja/p7.md)
+- [P8 - Signali, pipe i fifo](./Predavanja/p8.md)
+- [P9 - Pipe, fifo i `select`](./Predavanja/p9.md)
+- [P10 - Iznimke i RAII](./Predavanja/p10.md)
