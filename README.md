@@ -33,6 +33,7 @@ Sistemsko programiranje (SYSP)
 - [P10 - Iznimke i RAII](./Predavanja/p10.md)
 - [P11 - Smart pointeri](./Predavanja/p11.md)
 - [P12 - Thread i mutex](./Predavanja/p12.md)
+- [P13 - Lock guard, unique lock, atomic i condition variable](./Predavanja/p13.md)
 
 #### [Prezentacije](./Prezentacije)
 - [P1](./Prezentacije/SP-P1.pdf)
