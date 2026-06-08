@@ -49,6 +49,7 @@ Sistemsko programiranje (SYSP)
 #### [Zadaće](./Zadace)
 - [Z1 - bash](./Zadace/z1/)
   - [Simple bash](./Zadace/simple_bash.c)
+- [Z3 - scheduler](./Zadace/z3/)
 
 #### [Provjere](./Provjere/)
 - [P3 - Terminal](./Provjere/p3)
